@@ -1,5 +1,5 @@
 # Compte Rendu — Algorithmes de Clustering
-
+<img src="Photo personnelle 1.jpg" style="height:264px; margin-right:264px;"/>
 ## Exemples avec données réelles (scikit-learn)
 
 > **Fichier source :** `clustering_algorithms.ipynb` → `clustering_examples.py`  
